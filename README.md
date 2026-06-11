@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-🛒 Amazon ECommerce Clone
+🛒 Amazon ECommerce 
 
-=======
->>>>>>> e08fef1 (updated the changes)
 Pixel-perfect responsive clone of Amazon.com homepage. Built with pure HTML5 + CSS3 in Jan 2026 for frontend portfolio. Features navbar, 16+ product grids, hero banners, holiday deals, and Amazon footer.
 
 ✨ What You'll Find
