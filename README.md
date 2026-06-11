@@ -17,7 +17,7 @@ HTML5 + CSS3 + Flexbox + Font Awesome 6.7.2
 Amazon colors: #0f1111, #febd68, #232f3e
 🚀 Get Started
 bash
-git clone https://github.com/mohammadnaveed1701-source/Amazon-ECommerce.git
+git clone https://unique-mooncake-c1324e.netlify.app/
 cd Amazon-ECommerce
 # Double-click index.html
 📁 Structure
