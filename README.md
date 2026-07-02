@@ -4,7 +4,7 @@ A feature-rich Amazon-inspired e-commerce frontend built using HTML, CSS, and Ja
 
 ## 🚀 Live Demo
 
-**Website:** https://unique-mooncake-c1324e.netlify.app/
+**Website:** https://amazon-e-commerce-liard.vercel.app/
 
 ---
 
