@@ -21,34 +21,40 @@ This project was built to strengthen practical frontend engineering skills inclu
 Real-time product filtering
 Instant search results
 Dynamic UI updates
+
 🛒 Shopping Cart
 Add products to cart
 Quantity management
 Persistent Local Storage
 Live cart counter
 Cart summary
+
 🎯 Interactive Shopping Experience
 Interactive product cards
 Dynamic buttons
 User feedback
 Smooth UI interactions
+
 📱 Fully Responsive
 Desktop optimized
 Tablet support
 Mobile-first layout
 Flexible product grid
+
 🎨 Modern User Interface
 Clean navigation
 Hero section
 Product collections
 Promotional banners
 Footer navigation
+
 ⚡ Enhanced User Experience
 Smooth scrolling
 Back-to-top button
 Hover animations
 Responsive navigation
 Dynamic content rendering
+
 🛠️ Tech Stack
 Frontend
 HTML5
@@ -64,6 +70,7 @@ Mobile-First Development
 Flexbox
 CSS Grid
 Component-Based UI Structure
+
 🏗️ Architecture
 HTML
 Responsive navigation
@@ -84,6 +91,7 @@ Cart management
 Local Storage persistence
 Event listeners
 Dynamic UI updates
+
 🔥 Core Functionalities
 Product Search
 
@@ -118,6 +126,7 @@ cartify/
 │   ├── products/
 │
 └── README.md
+
 💡 Skills Demonstrated
 Frontend Development
 JavaScript Programming
@@ -128,6 +137,7 @@ Responsive Web Design
 UI/UX Design
 Dynamic Content Rendering
 E-Commerce Interface Development
+
 🎯 Learning Outcomes
 
 This project strengthened my understanding of:
@@ -138,6 +148,7 @@ Browser storage management
 Responsive layouts
 Interactive user interfaces
 Writing clean and maintainable code
+
 🚀 Future Enhancements
 Product Details Page
 User Authentication
