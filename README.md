@@ -236,19 +236,6 @@ Planned improvements include:
 
 ---
 
-# 📸 Preview
-
-> Add screenshots here
-
-* Homepage
-* Product Listing
-* Product Search
-* Shopping Cart
-* Mobile View
-* Footer
-
----
-
 # ⚠️ Disclaimer
 
 Cartify is an educational portfolio project created to demonstrate modern frontend development skills. It is not affiliated with, endorsed by, or associated with Amazon or any other commercial e-commerce platform.
