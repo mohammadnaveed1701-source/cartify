@@ -6,7 +6,7 @@ Designed as a portfolio project, Cartify demonstrates core frontend development 
 
 🚀 Live Demo
 
-Website: will be updated soon
+Website: https://cartiify-liard.vercel.app/
 
 📖 Overview
 
