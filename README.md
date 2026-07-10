@@ -22,7 +22,7 @@
 
 **🔗 Website**
 
-https://cartiify-liard.vercel.app/
+https://cartiify-ecommerce.vercel.app/
 
 ---
 
