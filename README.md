@@ -275,35 +275,6 @@ cartify/
 │
 └── README.md
 ```
-
----
-
-# 🚀 Getting Started
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/mohammadnaveed1701-source/cartify.git
-```
-
-## 2. Navigate to the Project
-
-```bash
-cd cartify
-```
-
-## 3. Run the Application
-
-Open:
-
-```text
-index.html
-```
-
-in a modern web browser.
-
-No package installation or external dependencies are required.
-
 ---
 
 # 🌐 Live Demo
@@ -462,7 +433,7 @@ https://portfolio1701.vercel.app/
 https://www.linkedin.com/in/mohammad-naveed-5294b2333/
 
 🐙 **GitHub**
-https://github.com/mohammadnaveed1701-source
+https://github.com/mdnav
 
 ---
 
