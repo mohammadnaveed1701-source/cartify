@@ -430,7 +430,7 @@ Cartify represents an early stage of my development journey, where I focused on 
 https://portfolio1701.vercel.app/
 
 💼 **LinkedIn**
-https://www.linkedin.com/in/mohammad-naveed-5294b2333/
+https://www.linkedin.com/in/mdnav/
 
 🐙 **GitHub**
 https://github.com/mdnav
